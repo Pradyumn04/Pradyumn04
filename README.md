@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Javascript**
 
- 💬 Ask me about **HTML,CSS**
+ 💬 Ask me about **HTML,CSS,Java,Python,C,**
  
  </div>
  
